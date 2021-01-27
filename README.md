@@ -1,4 +1,5 @@
-# Planetarium-jQuery
+# Planetarium-jQuery <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
 
 # LukisanJS
 ## Cloning this repository
